@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Typora上传图片</title>
+    <url>/2020/05/09/Typora%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/</url>
+    <content><![CDATA[<h1 id="上传图片到blog"><a href="#上传图片到blog" class="headerlink" title="上传图片到blog"></a>上传图片到blog</h1><ul>
+<li>将本地图片上传到gitee仓库中，在我的仓库中可以看到本地上传图片</li>
+<li>点击要上传的图片，点击原始数据，最后复制图片地址</li>
+<li>将地址信息放入Typora中，格式为：![name] (path)</li>
+</ul>
+<p><img src="https://gitee.com/xu_ouyang/mapdepot2/raw/master/11.png" alt="11"></p>
+<p><img src="https://gitee.com/xu_ouyang/mapdepot2/raw/master/22.png" alt="22"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Java排序算法</title>
     <url>/2020/05/08/Java%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h1 id="常见Java排序算法"><a href="#常见Java排序算法" class="headerlink" title="常见Java排序算法"></a>常见Java排序算法</h1><h2 id="排序算法分类："><a href="#排序算法分类：" class="headerlink" title="排序算法分类："></a>排序算法分类：</h2><p><img src="https://gitee.com/xu_ouyang/mapdepot2/raw/master/paixu.png" alt="paixu"></p>
